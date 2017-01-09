@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #222;
+    height: 80px;
+    padding: 20px;
+    color: white;
+}
+
+.App-header {
+    background-color: #2C2F6B;
+    color: #ffffff;
+}
+
+.App-listings {
+    position: relative;
+    background-color: #ffffff;
+    color: #ffffff;
+    border: 1px solid red;
+    width:  800px;
+    height: 800px;
+    margin: auto;
+}
+
+.App-listings-item {
+  position: absolute;
+}
